@@ -1,2 +1,3 @@
 test
-other person do 
+other person do
+test yxct pull
